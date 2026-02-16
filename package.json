@@ -24,13 +24,13 @@
   "author": "Rosco Kalis <roscokalis@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.13.5",
     "cli-logger": "^0.5.40",
     "delay": "^5.0.0",
     "querystring": "^0.2.1"
   },
   "devDependencies": {
-    "eslint": "^7.20.0",
+    "eslint": "^10.0.0",
     "eslint-config-standard": "^16.0.2",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-node": "^11.1.0",
